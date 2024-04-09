@@ -1,0 +1,4 @@
+com\dat\configs\DispatcherServletInit.class
+com\dat\controllers\IndexController.class
+com\dat\configs\HibernateConfig.class
+com\dat\configs\WebAppContextConfig.class
